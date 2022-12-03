@@ -3,10 +3,11 @@ env/
 env.bak/
 
 db.*
+.token.*
 splite3/
 
-discord_bot/token.py
-discord_bot/token.*
+discord_bot/token.py/
+discord_bot/token.*/
 
-/discord_bot/token.py
-/discord_bot/token.*
+/discord_bot/token.py/
+/discord_bot/token.*/

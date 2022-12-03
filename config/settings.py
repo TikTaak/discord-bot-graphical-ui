@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'app',
     'discord',
-    'discord_bot',
+    # 'discord_bot',
     'discord.ext',
    
 ]
